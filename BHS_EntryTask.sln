@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BHS_EntryTask", "BHS_EntryTask\BHS_EntryTask.csproj", "{115A4851-2478-4DA3-8B2A-CB7B1445E17D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{115A4851-2478-4DA3-8B2A-CB7B1445E17D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{115A4851-2478-4DA3-8B2A-CB7B1445E17D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{115A4851-2478-4DA3-8B2A-CB7B1445E17D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{115A4851-2478-4DA3-8B2A-CB7B1445E17D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
